@@ -1,0 +1,8 @@
+git add .
+git commit -m "update"
+
+Deploy no git 
+git push
+
+Deploy to heroku
+git push heroku master
